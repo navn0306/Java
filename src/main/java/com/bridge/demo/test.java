@@ -15,5 +15,6 @@ public class test {
         LOG.debug("Appending String: {}.", message);
         System.out.println(message);
         System.out.println("Remotely added message");
+        System.out.println("This message was added by Feature branch");
     }
 }
