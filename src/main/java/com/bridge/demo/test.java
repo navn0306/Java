@@ -14,5 +14,6 @@ public class test {
         LOG.fatal(message + "will be printer on fatal");
         LOG.debug("Appending String: {}.", message);
         System.out.println(message);
+        System.out.println("Remotely added message");
     }
 }
